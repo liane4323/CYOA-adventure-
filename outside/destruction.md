@@ -1,4 +1,4 @@
 You see destroyed homes and building everywhere, what will you do now?
 
-Look for resources
-See if there are more people
+1. [Look for resources](resources.md)
+2. See if there are more people
