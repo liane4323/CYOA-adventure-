@@ -1,3 +1,3 @@
-Uh oh! The building collapsed on you, **YOU DIED!**
+Uh oh! Your house isn't stable enough. The earthquake makes it become fragile. Therefore,the building collapsed on you as you try escaping the house. **YOU DIED!**
 
 [Start over?](../intro/beginning.md)
