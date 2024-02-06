@@ -1,3 +1,3 @@
-Uh oh! Junk food doesn’t last very long. **YOU DIE FROM STARVATION!** The rescue team finds you so you can rest.
+Uh oh! Junk food doesn’t last very long. It tastes too good that you kept wanting more and eating it. Eventually, you ran out of food. There was no way to go back to the store as it broke down after a while since you left it. **YOU DIE FROM STARVATION!** The rescue team later on finds you so you can rest easy now.
 
-[Start over?](../intro/beginning.md)
+[_Start over?_](../intro/beginning.md)
