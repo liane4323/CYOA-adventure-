@@ -3,5 +3,8 @@ You see destroyed homes and buildings everywhere. There is rubble anywhere you s
 <img src="houses.jpeg" alt="Houses broken everywhere">
 
 1. [Look for resources](resources.md)
+<img src="shop.jpeg" alt="Person outside of a store">
 2. [See if there are more people](people.md)
+<img src="search.jpeg" alt="Person with magnifying glass">
 3. [Freak out](freak-out.md)
+<img src="freak_out.jpeg" alt="Man freaking out">
