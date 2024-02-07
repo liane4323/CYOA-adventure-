@@ -4,7 +4,7 @@ You see destroyed homes and buildings everywhere. There is rubble anywhere you s
 
 1. [Look for resources](resources.md)
 
-<img src="shop.jpeg" alt="Person outside of a store">
+<img src="shop.jpeg" alt="Person outside of a store" weight="900" height="500">
 
 2. [See if there are more people](people.md)
 
