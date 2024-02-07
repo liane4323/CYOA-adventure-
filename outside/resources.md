@@ -2,7 +2,7 @@ You find a store with some food left. You have some options. There are some snac
 
 1. [Take the canned food](canned.md)
 
-<img src="cans.jpeg" alt="Bunch of cans">
+<img src="cans.jpeg" alt="Bunch of cans" width="800" height="700">
 
 2. [Take the junk food](junk.md)
 
