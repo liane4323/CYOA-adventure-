@@ -1,6 +1,6 @@
 You see destroyed homes and buildings everywhere. There is rubble anywhere you step. Nobody you know is seen throughout the street, or anyone for that matter. There's too much dust and it's cloudy from it. What will you do now?
 
-<img src="houses.jpeg" alt="Houses broken everywhere" weight="800" height="700">
+<img src="houses.jpeg" alt="Houses broken everywhere" weight="700" height="600">
 
 1. [Look for resources](resources.md)
 
