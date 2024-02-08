@@ -1,6 +1,6 @@
 # CYOA-adventure-
 
-The reason for working on this project is to practice team work and linking files.
+The reason for working on this project is to practice team work and linking markdown files .
 
 [Beginning of Story](intro/beginning.md)
 
